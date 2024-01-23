@@ -1,0 +1,15 @@
+tiny-cuda-nn
+jax
+tensorboard
+open3d
+tqdm
+torch-cuda
+pillow
+opencv-python
+pandas
+lpips
+torchmetrics
+scikit-image
+imageio
+nerfacc
+pytorch-msssim
