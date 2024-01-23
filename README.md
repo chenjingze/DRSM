@@ -35,6 +35,3 @@ Operation for reconstructing point clouds:
 ```bash
 python recontruct_pointclouds.py --root_path ./logs/icassp/marionette/full_5000_marionette_tloss_dy/estm --out_postfix lp_recon --depth_smoother
 ```
-
-## Acknowledgement
-The research was supported by Natural Science Foundation of China (No.62072388) and public technology service platform project of Xiamen city (No.3502Z20231043).
