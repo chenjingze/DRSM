@@ -1,7 +1,8 @@
 # DRSM: EFFICIENT NEURAL 4D DECOMPOSITION FOR DYNAMIC RECONSTRUCTION IN STATIONARY MONOCULAR CAMERAS
 This is the code for DRSM, a novel framework a novel neural 4D decomposition for dynamic reconstruction from single-view videos to tackle 4D decomposition problem for dynamic scenes in monocular cameras.
-<img src="Framework-DRSM.png" width=70%>
-
+<div align=center>
+<img src="Framework-DRSM.png" width=70% >
+</div>
 ## Prerequisities
 Our model is trained and tested under:
 * tiny-cuda-nn
