@@ -3,7 +3,7 @@ This is the code for DRSM, a novel framework a novel neural 4D decomposition for
 <div align=center>
 <img src="Framework-DRSM.png" width=70% >
 </div>
-https://github.com/chenjingze/DRSM/assets/82258921/68295b6d-20ae-41bb-821e-0646826c1ad3
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog_a.mp4)
 
 ## Prerequisities
 Our model is trained and tested under:
