@@ -40,3 +40,10 @@ Operation for reconstructing point clouds:
 ```bash
 python recontruct_pointclouds.py --root_path ./logs/icassp/10k_boxs/estm --out_postfix lp_recon --depth_smoother
 ```
+
+## Acknowledgements
+We would like to acknowledge the following inspiring work:
+* K-Planes  (Fridovich-Keil et al.)
+* HexPlane (Ang-Cao et al.)
+* Tensor4D(Ruizhi-Shao et al.)
+
