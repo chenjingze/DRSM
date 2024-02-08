@@ -5,7 +5,8 @@ This is the code for DRSM, a novel framework a novel neural 4D decomposition for
 </div>
 <div align=center>
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-  </div>
+</div>
+
 ## Prerequisities
 Our model is trained and tested under:
 * tiny-cuda-nn
