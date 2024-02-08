@@ -3,9 +3,7 @@ This is the code for DRSM, a novel framework a novel neural 4D decomposition for
 <div align=center>
 <img src="Framework-DRSM.png" width=70% >
 </div>
-<!--嵌套中放入一张类似视频播放界面的图片诱导用户点击跳转链接从而播放视频，当然这不是一个正确的方式
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog_a.mp4)
--->
+https://github.com/chenjingze/DRSM/issues/1#issue-2125734585
 
 ## Prerequisities
 Our model is trained and tested under:
