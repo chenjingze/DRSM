@@ -3,6 +3,7 @@ This is the code for DRSM, a novel framework a novel neural 4D decomposition for
 <div align=center>
 <img src="Framework-DRSM.png" width=70% >
 </div>
+<video src="https://youtu.be/embed/6uwYF_7KSVA" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 <iframe src="https://youtu.be/embed/6uwYF_7KSVA" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://youtu.be/embed/6w4ibJMy5RE" frameborder="0" allowfullscreen></iframe>
 ## Prerequisities
