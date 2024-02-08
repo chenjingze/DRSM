@@ -2,7 +2,7 @@
 This is the code for DRSM, a novel framework a novel neural 4D decomposition for dynamic reconstruction from single-view videos to tackle 4D decomposition problem for dynamic scenes in monocular cameras.
 <div align=center>
 <img src="Framework-DRSM.png" width=70% >
-<img src="video/ezgif-4-47003f9b47.gif.gif" width=70% >
+<img src="video/ezgif-4-47003f9b47.gif" width=70% >
 <img src="video/v2.gif" width=70% >
 </div>
 
