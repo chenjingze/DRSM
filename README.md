@@ -27,7 +27,7 @@ Our model is trained and tested under:
 * pytorch-msssim
 
 ## Dataset
-We use a self-built dataset for training. If there is a need please contact xwxxmu@gmail.com.
+We use a self-built dataset for training.
 
 ## Train
 Set data root in code. Then run:
